@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color_tree_lists"
+			],
+			[
+				"colo",
+				"color_tree_lists"
+			],
+			[
+				"color",
+				"color_tree_lists"
+			],
+			[
+				"r",
+				"r2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ope",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"op",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"main",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"calen",
+				"DrCalendar: Show panel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ica",
+				"Set Syntax: iCalendar"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimLin",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"UI",
+				"UI: Customize Theme"
+			],
+			[
+				"close",
+				"Terminus: Close"
+			],
+			[
+				"previe",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"previ",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"to",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal OS Specific Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 323.0,
+		"history":
+		[
+			"exit",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/studio-marzo.md",
+		"/home/gab/Github/Second-Brain/projects/Education/master/universities.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/BD.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/IS.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/13.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/RETI&LABIII.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/15.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/14.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/28.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/26.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/24.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/22.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/20.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/18.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/16.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/04.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/02.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/03.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/01.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/27.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/29.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/23.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/25.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/19.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/21.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/routine/17.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/AESO.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/Blocco-1.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/Blocco-2.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/Ricerca-Operativa.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/IIA.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/Reti&LabIII.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/Basi-di-Dati.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/Calcolo-Numerico.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/esami.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/studio-gennaio.md",
+		"/home/gab/Github/Second-Brain/projects/Education/master/Gabriele Salvo Resume.pdf",
+		"/home/gab/Github/Second-Brain/projects/Style/wardrobe.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/studio-dicembre.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-21.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/timeline.md",
+		"/home/gab/Github/Second-Brain/projects/Education/summer-fellowship/plan-to-get-in.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-10.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-12-07.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-12-09.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-09.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-07.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-12-06.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-12-05.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-06.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-05.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-12-04.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-04.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-03.md",
+		"/home/gab/Github/Second-Brain/projects/README.md",
+		"/home/gab/Github/Second-Brain/projects/Side-Projects/Wav-e/dry.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-12-01.md",
+		"/home/gab/Github/Second-Brain/projects/Education/summer-fellowship/motivation-letter-epfl.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-12-01.md",
+		"/home/gab/Github/Second-Brain/README.md",
+		"/home/gab/Github/Second-Brain/projects/Education/TOEFL/academic-discussion-template.md",
+		"/home/gab/Github/Second-Brain/brain-dumps/crave-for-knowledge.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-11-30.md",
+		"/home/gab/Github/Second-Brain/projects/Education/TOEFL/mock-exam-1.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-11-26.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-11-26.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-11-23.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-11-23.md",
+		"/home/gab/Github/Second-Brain/the-vault/past-daily-tasks/2023-11-22.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-11-22.md",
+		"/home/gab/Github/Second-Brain/assets/scripts/move-old-files.sh",
+		"/home/gab/Github/Second-Brain/touch-today-note.sh",
+		"/home/gab/Github/Second-Brain/move-old-files.sh",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-11-21.md",
+		"/home/gab/Github/Second-Brain/daily-musing/2023-11-20.md",
+		"/home/gab/.config/sublime-text/Packages/User/main.py",
+		"/home/gab/Github/Calendar-SublimeText/main.py",
+		"/home/gab/Github/Second-Brain/projects/Education/master/schools.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/piano-tesi.md",
+		"/home/gab/Github/Second-Brain/projects/Education/triennale/bozza-di-piano.md",
+		"/home/gab/Github/Second-Brain/projects/Health/greek-god/workout.md",
+		"/home/gab/Github/Second-Brain/brain-dumps/esercizi.ml",
+		"/home/gab/Github/Second-Brain/projects/triennale/bozza-di-piano.md",
+		"/home/gab/Github/Second-Brain/projects/Swot.md",
+		"/home/gab/.config/sublime-text/Packages/Diction/Diction.sublime-settings",
+		"/home/gab/.config/sublime-text/Packages/User/Diction.sublime-settings",
+		"/home/gab/Github/Python/class.py",
+		"/home/gab/Github/Second-Brain/brain-dumps/orwellian-stream.md",
+		"/home/gab/Github/Packages/README.md",
+		"/home/gab/.config/sublime-text/Packages/User/termious_on_startup.py",
+		"/home/gab/Github/Second-Brain/second-brain.sublime-project",
+		"/home/gab/Github/Second-Brain/.gitignore",
+		"/home/gab/Github/Dry/README.md",
+		"/home/gab/tuscandry.md",
+		"/home/gab/Github/HackEd/src/app/app-routing.module.ts",
+		"/home/gab/Github/Server/socket.js",
+		"/home/gab/Github/Server/compiler.js",
+		"/home/gab/Github/Server/compiler_test.js",
+		"/home/gab/Github/Server/pserver.js",
+		"/home/gab/Github/Server/sftp-config.json",
+		"/home/gab/Github/gabsalvo.github.io/src/pages/index.astro",
+		"/home/gab/Github/HackEd/src/app/user/user.component.ts",
+		"/home/gab/Github/HackEd/src/app/app.component.html",
+		"/home/gab/Github/gabsalvo.github.io/src/content/post/Get your first npm package going.md",
+		"/home/gab/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+		"/home/gab/.config/sublime-text/Packages/Terminus/Terminus.sublime-settings",
+		"/home/gab/.config/sublime-text/Packages/QuickPanelEnhanced/Default.sublime-keymap",
+		"/home/gab/.config/sublime-text/Packages/TerminalinPackages/Default.sublime-keymap",
+		"/home/gab/.config/sublime-text/Packages/User/Side Bar.sublime-settings",
+		"/home/gab/hello.c"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"HackEd/src/app/user/user.component.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -27,6 +27,8 @@ RUN echo 'remote_user ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers
 # SSH setup
 RUN mkdir /home/remote_user/.ssh && chmod 700 /home/remote_user/.ssh
 COPY id_rsa.pub /home/remote_user/.ssh/authorized_keys
+COPY legend.txt /home/remote_user/
+COPY hello.s /home/remote_user/
 RUN chown remote_user:remote_user -R /home/remote_user/.ssh && \
     chmod 600 /home/remote_user/.ssh/authorized_keys
 

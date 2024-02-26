@@ -1,0 +1,12 @@
+# Compile the code
+
+arm-linux-gnueabihf-as -o hello.o hello.s
+arm-linux-gnueabihf-ld -o hello hello.o
+
+# Test it
+
+qemu-arm -L /usr/arm-linux-gnueabihf hello
+
+# Expand
+
+You can do pretty much anything you find in the slide at the github repo, so go check that out!
