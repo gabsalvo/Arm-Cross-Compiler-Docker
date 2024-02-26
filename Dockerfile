@@ -13,6 +13,7 @@ RUN apt-get update && \
     curl \
     qemu \
     qemu-user \
+    gcc-arm-linux-gnueabihf \
     gdb-multiarch \
     && rm -rf /var/lib/apt/lists/*
 
